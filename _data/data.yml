@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -49,7 +49,7 @@ sidebar:
         link:
 
       - item: Photography
-        link:
+        link: https://olivergill.com/photos/
 
 career-profile:
     title: Career Profile
@@ -61,8 +61,8 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Bsc in Computer Science
-      university: University of Newcastle upon Tyne
+    - degree: BSc in Computer Science
+      university: University of Newcastle
       time: 2008 - 2011ish
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
