@@ -12,15 +12,15 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: oli@olivergill.com
-    phone: +44 7914124203
+    email: cv@olivergill.com
+    phone:
     website: olivergill.com #do not add http://
     linkedin: oliver.gill
     github: olig89
     telegram: olig89 # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@oli_g89'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
