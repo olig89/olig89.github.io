@@ -39,7 +39,7 @@ sidebar:
         level: Aging
 
       - idiom: Estonian
-        level: Hopeful
+        level: Aspiring
 
     interests:
       - item: Rapid Prototyping
@@ -63,7 +63,7 @@ career-profile:
 education:
     - degree: BSc in Computer Science
       university: University of Newcastle
-      time: 2008 - 2011ish
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
